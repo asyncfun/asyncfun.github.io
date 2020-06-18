@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+
+
+
+
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>AsyncFun Blog</title>
+        <link>https://blog.asyncfun.com/</link>
+        <description>AsyncFun Blog.</description>
+        <generator>Hugo 0.72.0 https://gohugo.io/</generator>
+        
+            <language>en</language>
+        
+        
+            <managingEditor>maguowei@asyncfun.com (maguowei)</managingEditor>
+        
+        
+            <webMaster>maguowei@asyncfun.com (maguowei)</webMaster>
+        
+        
+            <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
+        
+        <lastBuildDate>Thu, 18 Jun 2020 22:28:25 &#43;0800</lastBuildDate>
+        
+            <atom:link rel="self" type="application/rss&#43;xml" href="https://blog.asyncfun.com/rss.xml" />
+        
+        
+            <item>
+                <title>Hello World</title>
+                <link>https://blog.asyncfun.com/posts/hello-world/</link>
+                <guid isPermaLink="true">https://blog.asyncfun.com/posts/hello-world/</guid>
+                <pubDate>Tue, 09 Jun 2020 14:02:21 &#43;0800</pubDate>
+                
+                    <author>maguowei@asyncfun.com (maguowei)</author>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
+                
+                    <description>&lt;p&gt;hello world&lt;/p&gt;
+</description>
+                
+                
+                
+                
+                
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="https://blog.asyncfun.com/categories/test/">test</category>
+                                
+                            
+                        
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="https://blog.asyncfun.com/tags/test/">test</category>
+                                
+                            
+                        
+                    
+                
+            </item>
+        
+    </channel>
+</rss>

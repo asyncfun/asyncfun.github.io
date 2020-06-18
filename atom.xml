@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title type="text">AsyncFun Blog</title>
+    <subtitle type="html">AsyncFun Blog.</subtitle>
+    <updated>2020-06-18T22:28:25&#43;08:00</updated>
+    <id>https://blog.asyncfun.com/</id>
+    <link rel="alternate" type="text/html" href="https://blog.asyncfun.com/" />
+    <link rel="self" type="application/atom&#43;xml" href="https://blog.asyncfun.com/atom.xml" />
+    <author>
+            <name>maguowei</name>
+            <uri>https://blog.asyncfun.com/</uri>
+            
+                <email>maguowei@asyncfun.com</email>
+            </author>
+    <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights>
+    <generator uri="https://gohugo.io/" version="0.72.0">Hugo</generator>
+        <entry>
+            <title type="text">Hello World</title>
+            <link rel="alternate" type="text/html" href="https://blog.asyncfun.com/posts/hello-world/" />
+            <id>https://blog.asyncfun.com/posts/hello-world/</id>
+            <updated>2020-06-10T13:59:16&#43;08:00</updated>
+            <published>2020-06-09T14:02:21&#43;08:00</published>
+            <author>
+                    <name>maguowei</name>
+                    <uri>https://blog.asyncfun.com/</uri>
+                    <email>maguowei@asyncfun.com</email>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">hello world</summary>
+            
+                <content type="html">&lt;p&gt;hello world&lt;/p&gt;
+</content>
+            
+            
+            
+            
+            
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://blog.asyncfun.com/categories/test/" term="test" label="test" />
+                            
+                        
+                    
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://blog.asyncfun.com/tags/test/" term="test" label="test" />
+                            
+                        
+                    
+                
+            
+        </entry>
+    
+</feed>
