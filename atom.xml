@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
     <title type="text">AsyncFun Blog</title>
     <subtitle type="html">AsyncFun Blog.</subtitle>
-    <updated>2020-06-19T12:51:08&#43;08:00</updated>
+    <updated>2020-06-19T12:55:55&#43;08:00</updated>
     <id>https://blog.asyncfun.com/</id>
     <link rel="alternate" type="text/html" href="https://blog.asyncfun.com/" />
     <link rel="self" type="application/atom&#43;xml" href="https://blog.asyncfun.com/atom.xml" />
@@ -20,7 +20,7 @@
             <title type="text">使用 hugo 创建个人博客</title>
             <link rel="alternate" type="text/html" href="https://blog.asyncfun.com/posts/use-hugo-crate-blog/" />
             <id>https://blog.asyncfun.com/posts/use-hugo-crate-blog/</id>
-            <updated>2020-06-19T12:49:23&#43;08:00</updated>
+            <updated>2020-06-19T12:52:38&#43;08:00</updated>
             <published>2020-06-10T14:16:38&#43;08:00</published>
             <author>
                     <name>maguowei</name>
@@ -36,7 +36,7 @@
 这里选择使用 hugo 是因为本身这个项目足够流行，功能也很强大，该项目使用 golang 开发，安装起来比较简单，不需要处理依赖的问题，构建的速度也足够快。
 Hugo 创建静态站点   安装 hugo</summary>
             
-                <content type="html">&lt;p&gt;&lt;img src=&#34;https://blog.asyncfun.com/static/images/WordPress-Twenty-Ten.png&#34; alt=&#34;image&#34;&gt;&lt;/p&gt;
+                <content type="html">&lt;p&gt;&lt;img src=&#34;https://blog.asyncfun.com/images/WordPress-Twenty-Ten.png&#34; alt=&#34;image&#34;&gt;&lt;/p&gt;
 &lt;p&gt;毫无疑问，博客时代永远的过去了，在直播大行其道的今天，我却无比怀念它。&lt;/p&gt;
 &lt;p&gt;我赶上了博客时代辉煌的末期，也见证了微博、微信、直播的崛起。&lt;/p&gt;
 &lt;p&gt;最初自己搭建博客，接触的还是 &lt;code&gt;WordPress&lt;/code&gt; , 当时使用的版本应该是 &lt;code&gt;3.0&lt;/code&gt;, 查了一下， 发布时间是 &lt;code&gt;2010年7月17日&lt;/code&gt;。 如今十年过去, 博客已经沦为小众，
