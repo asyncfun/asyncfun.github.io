@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
     <title type="text">AsyncFun Blog</title>
     <subtitle type="html">AsyncFun Blog.</subtitle>
-    <updated>2020-06-19T12:55:55&#43;08:00</updated>
+    <updated>2020-06-19T14:13:09&#43;08:00</updated>
     <id>https://blog.asyncfun.com/</id>
     <link rel="alternate" type="text/html" href="https://blog.asyncfun.com/" />
     <link rel="self" type="application/atom&#43;xml" href="https://blog.asyncfun.com/atom.xml" />
@@ -18,9 +18,9 @@
     <generator uri="https://gohugo.io/" version="0.72.0">Hugo</generator>
         <entry>
             <title type="text">使用 hugo 创建个人博客</title>
-            <link rel="alternate" type="text/html" href="https://blog.asyncfun.com/posts/use-hugo-crate-blog/" />
-            <id>https://blog.asyncfun.com/posts/use-hugo-crate-blog/</id>
-            <updated>2020-06-19T12:52:38&#43;08:00</updated>
+            <link rel="alternate" type="text/html" href="https://blog.asyncfun.com/posts/use-hugo-create-blog/" />
+            <id>https://blog.asyncfun.com/posts/use-hugo-create-blog/</id>
+            <updated>2020-06-19T14:12:48&#43;08:00</updated>
             <published>2020-06-10T14:16:38&#43;08:00</published>
             <author>
                     <name>maguowei</name>
